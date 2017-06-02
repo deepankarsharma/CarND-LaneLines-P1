@@ -28,3 +28,4 @@ python lane_finder.py -i test_videos/challenge.mp4 -o test_videos_output/challen
 
 Writeup for this project is present at writeup.md
 
+Pre generated images and videos are present under the test_images_output and test_videos_output folders.
