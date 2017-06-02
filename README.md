@@ -21,7 +21,9 @@ Options:
 
 
 Example invocations:
+
 python lane_finder.py -i test_images/whiteCarLaneSwitch.jpg -o test_images_output/whiteCarLaneSwitch.jpg -d
+
 python lane_finder.py -i test_videos/challenge.mp4 -o test_videos_output/challenge.mp4 -v
 
 Writeup for this project is present at writeup.md
