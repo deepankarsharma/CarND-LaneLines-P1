@@ -29,3 +29,28 @@ python lane_finder.py -i test_videos/challenge.mp4 -o test_videos_output/challen
 Writeup for this project is present at writeup.md
 
 Pre generated images and videos are present under the test_images_output and test_videos_output folders.
+
+
+### Examples
+
+![Alt text](/test_images/solidWhiteCurve.jpg?raw=true "")
+![Alt text](/test_images_output/solidWhiteCurve.jpg?raw=true "")
+![Alt text](/test_images/solidWhiteRight.jpg?raw=true "")
+![Alt text](/test_images_output/solidWhiteRight.jpg?raw=true "")
+![Alt text](/test_images/solidYellowCurve.jpg?raw=true "")
+![Alt text](/test_images_output/solidYellowCurve.jpg?raw=true "")
+![Alt text](/test_images/solidYellowCurve2.jpg?raw=true "")
+![Alt text](/test_images_output/solidYellowCurve2.jpg?raw=true "")
+![Alt text](/test_images/solidYellowLeft.jpg?raw=true "")
+![Alt text](/test_images_output/solidYellowLeft.jpg?raw=true "")
+![Alt text](/test_images/whiteCarLaneSwitch.jpg?raw=true "")
+![Alt text](/test_images_output/whiteCarLaneSwitch.jpg?raw=true "")
+
+### Pipeline visualization
+
+![Alt text](/debug/debug_solidWhiteCurve.jpg?raw=true "")
+![Alt text](/debug/debug_solidWhiteRight.jpg?raw=true "")
+![Alt text](/debug/debug_solidYellowCurve.jpg?raw=true "")
+![Alt text](/debug/debug_solidYellowCurve2.jpg?raw=true "")
+![Alt text](/debug/debug_solidYellowLeft.jpg?raw=true "")
+![Alt text](/debug/debug_whiteCarLaneSwitch.jpg?raw=true "")
