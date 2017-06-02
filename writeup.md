@@ -32,10 +32,11 @@ Pipeline contains the following steps
 12. Use numpy polyfit to fit a single line from all lines with positive slope and another one from lines with negative slope.
 13. Draw the lines to mark the lanes
 
+The pipeline above is able to handle the challenge video correctly.
 
 ### Examples
 
-![Alt text](/test_images/solidWhiteCurve.jpg?raw=true "solidWhiteCurve")
+![Alt text](/test_images/solidWhiteCurve.jpg?raw=true "")
 ![Alt text](/test_images_output/solidWhiteCurve.jpg?raw=true "")
 ![Alt text](/test_images/solidWhiteRight.jpg?raw=true "")
 ![Alt text](/test_images_output/solidWhiteRight.jpg?raw=true "")
@@ -70,3 +71,4 @@ Pipeline contains the following steps
 2. Have a more sophisticated mechanism of filtering out unlikely lines after the hough transform
 3. Incorporate shape of lanes during detection so that random white / yellow objects dont throw the pipeline off
 4. Do a partitioning of the lines by left half of screen and right half of screen. This will mitigate shortcoming number 3 listed above.
+5. Take the color of the road into account when detecting the white / yellow detection.
