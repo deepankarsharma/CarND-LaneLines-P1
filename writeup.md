@@ -35,13 +35,13 @@ Pipeline contains the following steps
 
 ### Examples
 
-![Alt text](/test_images/solidWhiteCurve.jpg?raw=true "")
-![Alt text](/test_images/solidWhiteRight.jpg?raw=true "")
-![Alt text](/test_images/solidYellowCurve.jpg?raw=true "")
-![Alt text](/test_images/solidYellowCurve2.jpg?raw=true "")
-![Alt text](/test_images/solidYellowLeft.jpg?raw=true "")
-![Alt text](/test_images/whiteCarLaneSwitch.jpg?raw=true "")
-
+![Alt text](/test_images_output/solidWhiteCurve.jpg?raw=true "")
+![Alt text](/test_images_output/solidWhiteCurve.jpg?raw=true "")
+![Alt text](/test_images_output/solidWhiteRight.jpg?raw=true "")
+![Alt text](/test_images_output/solidYellowCurve.jpg?raw=true "")
+![Alt text](/test_images_output/solidYellowCurve2.jpg?raw=true "")
+![Alt text](/test_images_output/solidYellowLeft.jpg?raw=true "")
+![Alt text](/test_images_output/whiteCarLaneSwitch.jpg?raw=true "")
 
 
 ### 2. Identify potential shortcomings with your current pipeline
