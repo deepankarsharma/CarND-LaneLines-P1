@@ -35,7 +35,7 @@ Pipeline contains the following steps
 
 ### Examples
 
-![Alt text](/test_images/solidWhiteCurve.jpg?raw=true "")
+![Alt text](/test_images/solidWhiteCurve.jpg?raw=true "solidWhiteCurve")
 ![Alt text](/test_images_output/solidWhiteCurve.jpg?raw=true "")
 ![Alt text](/test_images/solidWhiteRight.jpg?raw=true "")
 ![Alt text](/test_images_output/solidWhiteRight.jpg?raw=true "")
