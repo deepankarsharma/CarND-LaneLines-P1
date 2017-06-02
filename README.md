@@ -8,13 +8,16 @@
 Usage: lane_finder.py [options]
 
 Options:
-  -h, --help            show this help message and exit
-  -i IFNAME, --ifname=IFNAME
-                        Input filename to process
-  -o OFNAME, --ofname=OFNAME
-                        Output filename
-  -v, --process-video   Incoming file is a video
-  -d, --debug           Enable debug output
+
+  -h, --help                   show this help message and exit
+  
+  -i IFNAME, --ifname=IFNAME   Input filename to process
+  
+  -o OFNAME, --ofname=OFNAME   Output filename
+  
+  -v, --process-video          Incoming file is a video
+  
+  -d, --debug                  Enable debug output
 
 
 Example invocations:
